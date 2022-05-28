@@ -1,0 +1,7 @@
+# Custom
+# 游戏UDP
+
+#Switch 喷射2
+DOMAIN-SUFFIX,baas.nintendo.com
+DOMAIN-SUFFIX,n.srv.nintendo.net
+DOMAIN-SUFFIX,npns.srv.nintendo.net

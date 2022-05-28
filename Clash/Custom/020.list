@@ -1,0 +1,17 @@
+# Custom
+# GFW list
+
+# 境外IP测试
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,paypal.com
+
+# Aliyun-SG
+IP-CIDR,8.214.102.53/32
+
+# battle.net
+DOMAIN-SUFFIX,battle.net
+
+# synology
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,byr.pt
