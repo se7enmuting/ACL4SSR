@@ -43,6 +43,7 @@ IP-CIDR,45.32.0.0/21,no-resolve
 IP-CIDR,45.40.58.0/24,no-resolve
 IP-CIDR,45.63.64.0/20,no-resolve
 IP-CIDR,64.237.45.106/31,no-resolve
+IP-CIDR,66.22.218.0/23,no-resolve
 IP-CIDR,67.228.235.91/32,no-resolve
 IP-CIDR,69.171.224.0/20,no-resolve
 IP-CIDR,69.171.230.18/32,no-resolve
