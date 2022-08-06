@@ -26,3 +26,5 @@ DOMAIN-KEYWORD,time.asia.apple.com
 DOMAIN-KEYWORD,time-ios.apple.com
 IP-CIDR,17.253.116.0/24,no-resolve
 
+# delta MERP
+DOMAIN-SUFFIX,pv.sohu.com
