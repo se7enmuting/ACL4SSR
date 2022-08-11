@@ -43,16 +43,16 @@ IP-CIDR,45.32.0.0/21,no-resolve
 IP-CIDR,45.40.58.0/24,no-resolve
 IP-CIDR,45.63.64.0/20,no-resolve
 IP-CIDR,64.237.45.106/31,no-resolve
-IP-CIDR,66.22.208.0/23,no-resolve
-IP-CIDR,66.22.209.0/23,no-resolve
-IP-CIDR,66.22.210.0/23,no-resolve
-IP-CIDR,66.22.211.0/23,no-resolve
-IP-CIDR,66.22.212.0/23,no-resolve
-IP-CIDR,66.22.213.0/23,no-resolve
-IP-CIDR,66.22.214.0/23,no-resolve
-IP-CIDR,66.22.215.0/23,no-resolve
-IP-CIDR,66.22.216.0/23,no-resolve
-IP-CIDR,66.22.217.0/23,no-resolve
+# IP-CIDR,66.22.208.0/23,no-resolve
+# IP-CIDR,66.22.209.0/23,no-resolve
+# IP-CIDR,66.22.210.0/23,no-resolve
+# IP-CIDR,66.22.211.0/23,no-resolve
+# IP-CIDR,66.22.212.0/23,no-resolve
+# IP-CIDR,66.22.213.0/23,no-resolve
+# IP-CIDR,66.22.214.0/23,no-resolve
+# IP-CIDR,66.22.215.0/23,no-resolve
+# IP-CIDR,66.22.216.0/23,no-resolve
+# IP-CIDR,66.22.217.0/23,no-resolve
 IP-CIDR,66.22.218.0/23,no-resolve
 IP-CIDR,66.22.219.0/23,no-resolve
 IP-CIDR,66.22.220.0/23,no-resolve
