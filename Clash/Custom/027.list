@@ -2,7 +2,10 @@
 
 # 数字金融
 DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
 DOMAIN-SUFFIX,alchemypay.org
+DOMAIN-SUFFIX,instarem.com
+
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,cex.io
@@ -11,5 +14,8 @@ DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,crypto.com
 DOMAIN-SUFFIX,bitfinex.com
-DOMAIN-KEYWORD,wise
+
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,paypal.com
+
 
