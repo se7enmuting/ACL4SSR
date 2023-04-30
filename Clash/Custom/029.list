@@ -1,0 +1,9 @@
+# Custom
+
+# PAYPAL
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-KEYWORD,paypal
+DOMAIN-KEYWORD,stripe
+
+
