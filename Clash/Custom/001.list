@@ -2,20 +2,11 @@
 # 大陆直连，最高优先级
 
 # PT
+# DOMAIN-KEYWORD,chdbits
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,pttracker6
 DOMAIN-KEYWORD,tracker-public
 DOMAIN-KEYWORD,tracker-campus
-DOMAIN-KEYWORD,chdbits
-DOMAIN-KEYWORD,hdhome
-DOMAIN-KEYWORD,springsunday
-DOMAIN-KEYWORD,ourbits
-DOMAIN-KEYWORD,tjupt
-DOMAIN-KEYWORD,pterclub
-DOMAIN-KEYWORD,hdchina.org
-DOMAIN-KEYWORD,hdsky.me
-DOMAIN-KEYWORD,open.cd
-DOMAIN-KEYWORD,soulvoice.club
 DOMAIN-SUFFIX,tracker.byr.pt
 DOMAIN-KEYWORD,douban
 
