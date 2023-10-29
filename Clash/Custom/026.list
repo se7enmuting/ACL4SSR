@@ -1,7 +1,8 @@
 # Custom
 
 # OpenAi
+DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
-DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,chatgpt.com
