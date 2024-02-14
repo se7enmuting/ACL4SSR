@@ -1,6 +1,7 @@
 # Custom
 
-# CF认证 Turnstile
+# CF相关 Turnstile
 DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,cloudflare.com
 
 
