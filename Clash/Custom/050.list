@@ -2,6 +2,7 @@
 
 # 测试节点
 DOMAIN-SUFFIX,ip.gs
+DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipget.net
 DOMAIN-SUFFIX,ip.skk.moe
 DOMAIN-SUFFIX,ipify.org
