@@ -1,7 +1,7 @@
 # Custom
 
 # CF相关 Turnstile
-GEOIP,cloudflare
+# GEOIP,cloudflare
 # DOMAIN-SUFFIX,challenges.cloudflare.com
 # DOMAIN-SUFFIX,cloudflare.com
 
