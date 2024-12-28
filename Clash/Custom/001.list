@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,tracker-public
 DOMAIN-KEYWORD,tracker-campus
 DOMAIN-SUFFIX,tracker.byr.pt
 DOMAIN-KEYWORD,douban
+DOMAIN,speedtest.link-g.cn
 
 # ntp
 DOMAIN-KEYWORD,pool.ntp.org
