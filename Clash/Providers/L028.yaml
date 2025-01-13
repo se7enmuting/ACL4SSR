@@ -1,7 +1,8 @@
 payload:
 # Custom
 
-# 数字交易所
+# Digital Exchange
+
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,cex.io

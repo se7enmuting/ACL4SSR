@@ -1,7 +1,7 @@
 payload:
 # Custom
 
-# 测试节点
+# Test Nodes
 DOMAIN-SUFFIX,ip.gs
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipget.net
