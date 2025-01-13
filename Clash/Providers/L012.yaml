@@ -1,6 +1,5 @@
 payload:
 # Custom
-
 # Nintendo GAMER
-DOMAIN-SUFFIX,nintendo.com
-DOMAIN-SUFFIX,nintendo.net
+  - DOMAIN-SUFFIX,nintendo.com
+  - DOMAIN-SUFFIX,nintendo.net

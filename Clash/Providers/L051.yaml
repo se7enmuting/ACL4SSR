@@ -1,9 +1,8 @@
 payload:
 # Custom
-
 # CF & Turnstile
 # GEOIP,cloudflare
-# DOMAIN-SUFFIX,challenges.cloudflare.com
-# DOMAIN-SUFFIX,cloudflare.com
+#   - DOMAIN-SUFFIX,challenges.cloudflare.com
+#   - DOMAIN-SUFFIX,cloudflare.com
 
 

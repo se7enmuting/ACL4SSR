@@ -1,7 +1,6 @@
 payload:
 # Custom
-
 # oracle
-DOMAIN-SUFFIX,oracle.com
-DOMAIN-SUFFIX,oraclecloud.com
-DOMAIN-KEYWORD,oracle
+  - DOMAIN-SUFFIX,oracle.com
+  - DOMAIN-SUFFIX,oraclecloud.com
+  - DOMAIN-KEYWORD,oracle

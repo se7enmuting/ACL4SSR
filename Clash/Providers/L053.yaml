@@ -1,6 +1,5 @@
 payload:
 # To Bhome
-
-# DOMAIN,b.link-g.cn
-DOMAIN,b6-501.link-g.cn
-DOMAIN,b6-win10.link-g.cn
+#   - DOMAIN,b.link-g.cn
+  - DOMAIN,b6-501.link-g.cn
+  - DOMAIN,b6-win10.link-g.cn

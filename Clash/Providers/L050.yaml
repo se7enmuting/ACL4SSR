@@ -1,13 +1,12 @@
 payload:
 # Custom
-
 # Test Nodes
-DOMAIN-SUFFIX,ip.gs
-DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,ipget.net
-DOMAIN-SUFFIX,ip.skk.moe
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,ip2location.com
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,ip.gs
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ipget.net
+  - DOMAIN-SUFFIX,ip.skk.moe
+  - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,ip2location.com
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,speedtest.net

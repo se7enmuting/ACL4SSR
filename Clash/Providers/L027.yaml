@@ -1,12 +1,11 @@
 payload:
 # Custom
-
 # Digital Payment
-DOMAIN-SUFFIX,wise.com
-DOMAIN-SUFFIX,transferwise.com
-DOMAIN-SUFFIX,alchemypay.org
-DOMAIN-SUFFIX,instarem.com
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-KEYWORD,stripe
+  - DOMAIN-SUFFIX,wise.com
+  - DOMAIN-SUFFIX,transferwise.com
+  - DOMAIN-SUFFIX,alchemypay.org
+  - DOMAIN-SUFFIX,instarem.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-KEYWORD,stripe
 
 

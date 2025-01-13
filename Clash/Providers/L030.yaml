@@ -1,23 +1,21 @@
 payload:
 # Custom
-
 # PT
-
-DOMAIN-SUFFIX,ptchdbits.co
-DOMAIN-SUFFIX,chdbits.co
-DOMAIN-SUFFIX,hdhome.org
-DOMAIN-SUFFIX,hdchina.org
-DOMAIN-SUFFIX,hdsky.me
-DOMAIN-SUFFIX,springsunday.net
-DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,tjupt.org
-DOMAIN-SUFFIX,pterclub.com
-DOMAIN-SUFFIX,open.cd
-DOMAIN-SUFFIX,soulvoice.club
-DOMAIN-SUFFIX,pttime.org
-DOMAIN-SUFFIX,hhanclub.top
-DOMAIN-SUFFIX,byr.pt
-DOMAIN-SUFFIX,hhan.club
+  - DOMAIN-SUFFIX,ptchdbits.co
+  - DOMAIN-SUFFIX,chdbits.co
+  - DOMAIN-SUFFIX,hdhome.org
+  - DOMAIN-SUFFIX,hdchina.org
+  - DOMAIN-SUFFIX,hdsky.me
+  - DOMAIN-SUFFIX,springsunday.net
+  - DOMAIN-SUFFIX,ourbits.club
+  - DOMAIN-SUFFIX,tjupt.org
+  - DOMAIN-SUFFIX,pterclub.com
+  - DOMAIN-SUFFIX,open.cd
+  - DOMAIN-SUFFIX,soulvoice.club
+  - DOMAIN-SUFFIX,pttime.org
+  - DOMAIN-SUFFIX,hhanclub.top
+  - DOMAIN-SUFFIX,byr.pt
+  - DOMAIN-SUFFIX,hhan.club
 
 
 

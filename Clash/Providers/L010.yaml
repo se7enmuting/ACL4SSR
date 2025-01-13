@@ -1,8 +1,7 @@
 payload:
 # Custom
 # Switch
-
 #Switch Splatoon 2
-DOMAIN-SUFFIX,baas.nintendo.com
-DOMAIN-SUFFIX,n.srv.nintendo.net
-DOMAIN-SUFFIX,npns.srv.nintendo.net
+  - DOMAIN-SUFFIX,baas.nintendo.com
+  - DOMAIN-SUFFIX,n.srv.nintendo.net
+  - DOMAIN-SUFFIX,npns.srv.nintendo.net

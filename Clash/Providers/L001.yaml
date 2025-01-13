@@ -1,25 +1,24 @@
 payload:
 # Custom
 # Mainland Direct Connection, Highest Priority
-
 # PT
-# DOMAIN-KEYWORD,chdbits.co
-# DOMAIN-SUFFIX,ptchdbits.co
-DOMAIN-SUFFIX,chdbits.xyz
-DOMAIN-KEYWORD,tracker
-DOMAIN-KEYWORD,pttracker6
-DOMAIN-KEYWORD,tracker-public
-DOMAIN-KEYWORD,tracker-campus
-DOMAIN-SUFFIX,tracker.byr.pt
-DOMAIN-KEYWORD,douban
-DOMAIN,speedtest.link-g.cn
+#   - DOMAIN-KEYWORD,chdbits.co
+#   - DOMAIN-SUFFIX,ptchdbits.co
+  - DOMAIN-SUFFIX,chdbits.xyz
+  - DOMAIN-KEYWORD,tracker
+  - DOMAIN-KEYWORD,pttracker6
+  - DOMAIN-KEYWORD,tracker-public
+  - DOMAIN-KEYWORD,tracker-campus
+  - DOMAIN-SUFFIX,tracker.byr.pt
+  - DOMAIN-KEYWORD,douban
+  - DOMAIN,speedtest.link-g.cn
 
 # ntp
-DOMAIN-KEYWORD,pool.ntp.org
-DOMAIN-KEYWORD,time-osx.g.aaplimg.com
-DOMAIN-KEYWORD,time.asia.apple.com
-DOMAIN-KEYWORD,time-ios.apple.com
-IP-CIDR,17.253.116.0/24,no-resolve
+  - DOMAIN-KEYWORD,pool.ntp.org
+  - DOMAIN-KEYWORD,time-osx.g.aaplimg.com
+  - DOMAIN-KEYWORD,time.asia.apple.com
+  - DOMAIN-KEYWORD,time-ios.apple.com
+  - IP-CIDR,17.253.116.0/24,no-resolve
 
 # delta MERP
-DOMAIN-SUFFIX,pv.sohu.com
+  - DOMAIN-SUFFIX,pv.sohu.com

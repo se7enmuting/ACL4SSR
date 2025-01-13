@@ -1,16 +1,15 @@
 payload:
 # Custom
 # GFW list
-
-# My Domains
-DOMAIN-SUFFIX,1cd.top
-DOMAIN-SUFFIX,chat.zi5.win
-DOMAIN-SUFFIX,a.zi5.win
-DOMAIN-SUFFIX,alist.zi5.win
-DOMAIN-SUFFIX,mjj.zi5.win
-DOMAIN-SUFFIX,docker.zi5.win
-DOMAIN-SUFFIX,6uvw.xyz
+# My DOMAINs
+  - DOMAIN-SUFFIX,1cd.top
+  - DOMAIN-SUFFIX,chat.zi5.win
+  - DOMAIN-SUFFIX,a.zi5.win
+  - DOMAIN-SUFFIX,alist.zi5.win
+  - DOMAIN-SUFFIX,mjj.zi5.win
+  - DOMAIN-SUFFIX,docker.zi5.win
+  - DOMAIN-SUFFIX,6uvw.xyz
 
 # synology
-DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,synology.com
 
