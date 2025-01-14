@@ -4,8 +4,8 @@ payload:
 # 我的境外域名
   - DOMAIN-SUFFIX,1cd.top
   - DOMAIN-SUFFIX,chat.zi5.win
-  - DOMAIN-SUFFIX,or-kr-m1.zi5.win
-  - DOMAIN-SUFFIX,zi5.win
+#  - DOMAIN-SUFFIX,or-kr-m1.zi5.win
+#  - DOMAIN-SUFFIX,zi5.win
   - DOMAIN-SUFFIX,a.zi5.win
   - DOMAIN-SUFFIX,alist.zi5.win
   - DOMAIN-SUFFIX,mjj.zi5.win
