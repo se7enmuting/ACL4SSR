@@ -1,2 +1,17 @@
 payload:
 # Custom
+
+# Bilibili PCDN
+  - DOMAIN-SUFFIX,v1d.szbdyd.com
+  - DOMAIN-SUFFIX,mcdn.bilivideo.cn
+
+# QQ 音乐 PCDN
+  - DOMAIN-SUFFIX,tp2p.kg.qq.com
+  - DOMAIN-SUFFIX,twns.p2ptun.qq.com
+
+# 网易云音乐 PCDN
+  - DOMAIN-SUFFIX,sd-gl.xinqiucc.com
+  - DOMAIN-SUFFIX,xyp-n.kuiniuca.com
+  - DOMAIN-SUFFIX,sdk1xyajs.data.kuiniuca.com
+  - DOMAIN-SUFFIX,ac.dun.163.com
+  - DOMAIN-SUFFIX,fp-upload.dun.163.com
