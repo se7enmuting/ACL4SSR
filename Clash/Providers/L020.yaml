@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,docker.zi5.win
   - DOMAIN-SUFFIX,6uvw.xyz
 
+  - DOMAIN,byr.pt
 
 # synology
   - DOMAIN-SUFFIX,synology.com

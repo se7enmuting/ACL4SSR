@@ -1,6 +1,7 @@
 payload:
 # Custom
 # PT
+# - DOMAIN,byr.pt
   - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN-SUFFIX,chdbits.co
   - DOMAIN-SUFFIX,hdhome.org
@@ -14,7 +15,6 @@ payload:
   - DOMAIN-SUFFIX,soulvoice.club
   - DOMAIN-SUFFIX,pttime.org
   - DOMAIN-SUFFIX,hhanclub.top
-  - DOMAIN-SUFFIX,byr.pt
   - DOMAIN-SUFFIX,hhan.club
   - DOMAIN-SUFFIX,hhanclub.net
   - DOMAIN-SUFFIX,pterclub.net
