@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN,ping0.cc
