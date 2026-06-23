@@ -2,17 +2,17 @@ payload:
 # Custom
 # GFW list
 # 我的境外域名
-  - DOMAIN-SUFFIX,1cd.top
-  - DOMAIN-SUFFIX,chat.zi5.win
-#  - DOMAIN-SUFFIX,or-kr-m1.zi5.win
-#  - DOMAIN-SUFFIX,zi5.win
-  - DOMAIN-SUFFIX,a.zi5.win
-  - DOMAIN-SUFFIX,alist.zi5.win
-  - DOMAIN-SUFFIX,mjj.zi5.win
-  - DOMAIN-SUFFIX,docker.zi5.win
-  - DOMAIN-SUFFIX,6uvw.xyz
-
+  - DOMAIN,1cd.top
+  - DOMAIN,6uvw.xyz
   - DOMAIN,byr.pt
+  - DOMAIN,docker.zi5.win
+  - DOMAIN,chat.zi5.win
+  - DOMAIN,a.zi5.win
+  - DOMAIN,alist.zi5.win
+  - DOMAIN,mjj.zi5.win
+  - DOMAIN,sub1.zi5.win
+  - DOMAIN,sub2.zi5.win
+  - DOMAIN,sub3.zi5.win
 
 # synology
   - DOMAIN-SUFFIX,synology.com
