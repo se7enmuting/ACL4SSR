@@ -13,6 +13,7 @@ payload:
   - DOMAIN,sub1.zi5.win
   - DOMAIN,sub2.zi5.win
   - DOMAIN,sub3.zi5.win
+  - DOMAIN,sub4.zi5.win
 
 # synology
   - DOMAIN-SUFFIX,synology.com
